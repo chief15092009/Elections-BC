@@ -309,8 +309,7 @@ Signed,
 
 
 *Cheif15092009*
- **Electoral Officer**
-  Elections British Columbia
+  **Electoral Officer**
 
 <p align="center"> <b>[END OF DOCUMENT]</b>
 
