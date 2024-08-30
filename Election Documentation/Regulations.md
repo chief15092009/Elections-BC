@@ -4,6 +4,7 @@
 <p align="center"> <b>Elections British Columbia</b>
 <p align="center"> <b>OFFICE OF THE CHIEF ELECTORAL OFFICER</b>
 
+----
 
 ## Part 1 - Interpretation and Application
 **Definitions**
