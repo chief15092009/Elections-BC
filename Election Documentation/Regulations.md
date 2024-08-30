@@ -1,6 +1,8 @@
-
+<p align="center"> 
+<img width=240 height =240 src="https://upload.wikimedia.org/wikipedia/en/3/3d/ElectionsBC.svg"> 
+</p>
 <p align="center"> <b>Elections British Columbia</b>
-<p align="center"> <b>OFFICE OF THE ELECTORAL Chief Electoral Officer</b>
+<p align="center"> <b>OFFICE OF THE CHIEF ELECTORAL OFFICER</b>
 
 
 ## Part 1 - Interpretation and Application
