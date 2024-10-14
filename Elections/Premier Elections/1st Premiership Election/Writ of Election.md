@@ -21,17 +21,38 @@ ORDER FROM:
 
 ----
 
-**GREETING**
-
-  WE COMMAND that you begin preparation for a General Election upon the expiration of the first premierships term. That the electors qualified to vote for the election of one premier; And we do hereby appoint:
-
-- For taking the votes of the electors on Monday, the Twenty-First day of October, 2024.
-- For the return of the writ on Friday, the Twenty-Fifth day of March, 2024.
+**DELEGATION OF AUTHORITY**
 
 
-**WITNESS**
+Due to the absence of a Chief Electoral Officer, I (palmurst, Lieutenant Governor) have been delegated as the Chief Electoral Officer pursuant to Section 177 of the Constitution Act. 
 
-  Our trusty and well-beloved His Excellency Palmurst, Lieutenant Governor in and over the Province of Brtish Columbia and its dependencies, this Fourteenth day of October, in the year of our lord, two thousand and twenty-four.
+
+**WRIT OF ELECTION**
+
+
+Pursuant to Sections 140, 147, and 150 of the Constitution Act, it is declared that there shall be an election following the extreme lack of a premier. The information is below:
+
+
+| Office for Election | Seats Available |
+| ------------------- | --------------- |
+| Premier |    One (1)     |
+
+
+| Nomination Period |
+| ----------------- |
+| 14/10/2024 @ 6:00 PM EST - 15/10/2024 @ 23:59 PM EST |
+
+| Campaigning Period |
+| ------------------ |
+| 10/16/2024 @ 08:00 AM EST - 10/17/2024 @ 23:59 PM EST |
+
+| Voting Period |
+| ----------------- |
+| 10/11/2024 @ 08:00 AM EST - 10/14/2024 @ 23:59 PM EST |
+
+| Certification of Results |
+| ------------------------ |
+| 10/15/2024 @ 23:59 PM EST |
 
 ---
 
