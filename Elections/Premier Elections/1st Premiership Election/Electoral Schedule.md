@@ -2,14 +2,21 @@
 
 All times are provided in Eastern Standard Time (EST).
 
-| Date & Time | Event |
-| :---: | :---: |
-| 14/10/2024 | Receipt of the Writ |
-| 15/10/2024 @ 6 PM | Nominations open |
-| 17/10/2024 @ 6 PM | Nominations close, campaigning begins |
-| 21/10/2024 @ 6 PM | Voting opens |
-| 24/10/2024 @ 6 PM | Voting closes |
-| 25/10/2024 @ 6 PM | Results certified, Premier declared |
+| Nomination Period |
+| ----------------- |
+| 14/10/2024 @ 6:00 PM - 15/10/2024 @ 23:59 PM |
+
+| Campaigning Period |
+| ------------------ |
+| 10/16/2024 @ 08:00 AM - 10/17/2024 @ 23:59 PM |
+
+| Voting Period |
+| ----------------- |
+| 10/11/2024 @ 08:00 AM - 10/14/2024 @ 23:59 PM |
+
+| Certification of Results |
+| ------------------------ |
+| 10/15/2024 @ 23:59 PM |
 
 ---
 Last updated, 14/10/2024.
