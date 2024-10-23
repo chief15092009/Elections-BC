@@ -90,8 +90,9 @@ If the time set under this Regulation or by an electoral officer for doing anyth
 - not be disqualified from public office by the Chief Electoral Officer,
 - not be apart of the Executive Council and/or intends to resign from office if elected,
 - not be otherwise disqualified from public office,
-- have not violated any laws or regulations respecting elections, and
-- not violate any laws or regulations respecting elections in the future.
+- have not violated any laws or regulations respecting elections, 
+- not violate any laws or regulations respecting elections in the future, and
+- must be a resident of British Columbia for a mimumum of thirty (30) days.
 
 **Making nominations**
 14. The timeline and means for making nominations shall be prescribed by the Chief Electoral Officer, in a writ of election.
