@@ -92,7 +92,8 @@ If the time set under this Regulation or by an electoral officer for doing anyth
 - not be otherwise disqualified from public office,
 - have not violated any laws or regulations respecting elections, 
 - not violate any laws or regulations respecting elections in the future, and
-- must be a resident of British Columbia for a mimumum of thirty (30) days.
+- ~~must be a resident of British Columbia for a mimumum of thirty (30) days.~~
+``` Overruled by oversight, 23/10```
 
 **Making nominations**
 14. The timeline and means for making nominations shall be prescribed by the Chief Electoral Officer, in a writ of election.
