@@ -28,7 +28,8 @@ HighSpellKillerSGT and HauntingIris are elected to the Legislative Assembly. All
 
 A by-election is scheduled for a months time, being the 23 November 2024.
 
-Signed,
 
-**Cheif15092009**
-Acting Chief Electoral Officer
+<br> Signed,
+
+<br> **Cheif15092009**
+<br> Acting Chief Electoral Officer
