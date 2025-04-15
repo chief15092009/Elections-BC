@@ -33,7 +33,7 @@ Pursuant to Sections 140, 147, and 150 of the Constitution Act, it is declared t
 
 | Nomination Period |
 | ----------------- |
-| 04/15/2025 @ 08:00 AM EST - 04/15/2025 @ 23:59 PM EST |
+| 04/15/2025 @ 08:00 AM EST - 04/16/2025 @ 23:59 PM EST |
 
 | Campaigning Period |
 | ------------------ |
