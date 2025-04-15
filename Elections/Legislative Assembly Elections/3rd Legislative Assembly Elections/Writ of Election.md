@@ -1,5 +1,5 @@
 	Citation:       Writ of Election 3-1
-	Authority:     	S. 118, Constitution Act 2025
+	Authority:     	S. 118, Constitution Act 2024
 
 <p align="center"><b><i>
 				WRIT OF ELECTION
