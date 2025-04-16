@@ -27,7 +27,7 @@ FROM:
 | 13  | JosephSheIby | Metro Vancouver | **APPROVED** | N/A
 | 14  | RiversVision | Brockton Point | **APPROVED** | N/A
 | 15  | CAPXDCAP | Robson | **APPROVED** | N/A
-| 16  | anonymouscoconut12 | Lions Gate | **DENIED** | In violation of Electoral Regulation §13.
+| 16  | anonymouscoconut12 | Lions Gate | **APPROVED** | N/A
 | 17  | hxllcatzz | Lions Gate | **DISQUALIFIED** | In violation of Electoral Regulation §61.
 | 18  | youssefbloody | Robson | **APPROVED** | N/A
 | 19  | strxumz | Robson | **APPROVED** | N/A
