@@ -55,10 +55,10 @@ FROM:
 - Violation of of Electoral Regulation §13.
   - "To be qualified for nomination as a candidate for an election, an individual **must not be charged with an indictable offence**."
 
-### ANONYMOUSCOCONUT12
-- Nominee has an indictable offence on record.
-  - x4 Indictable Offences
-- Violation of of Electoral Regulation §13.
-  - "To be qualified for nomination as a candidate for an election, an individual **must not be charged with an indictable offence**."
+### ~~ANONYMOUSCOCONUT12~~
+- ~~Nominee has an indictable offence on record.~~
+  - ~~x4 Indictable Offences~~
+- ~~Violation of of Electoral Regulation §13.~~
+  - ~~"To be qualified for nomination as a candidate for an election, an individual **must not be charged with an indictable offence**."~~
 
 
