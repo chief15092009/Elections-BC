@@ -10,32 +10,51 @@ FROM:
 
 ----
 
-1. Nominee hxllcatzz was disqualified from public office for a period of twelve (12) months due to a violation of §61.
+### 1. Initial Disqualification
 
-2. Section 61 states, "An individual or organisation must not, **purport to nominate an individual for an election without authority to do so**."
+1.1. The nominee, hxllcatzz, is hereby disqualified from holding public office for a period of twelve (12) months.
 
-3. The nominee violated this section by nominating anonymouscoconut12 after they had already nominated themselves.
+1.2. The disqualification is issued pursuant to a violation of §61 of the Electoral Code.
 
-### **APPEAL**
+1.3. Section 61 states:
+> "An individual or organisation must not purport to nominate an individual for an election without authority to do so."
 
-4. The nominee appealed this decision.
+1.4. The nominee violated §61 by submitting a nomination on behalf of "anonymouscoconut12" despite having already nominated himself.
 
-5. The nominee argued that: <br/>
-  a) The time he nominated himself was late (12am), and, <br/>
-  b) the electoral commission should have notified him of the false nomination. 
+---
 
-6. The Chief Electoral Officer rejected argument (a) on the basis that: <br/>
-  a) The Electoral Commission was not at fault for the registration at the late hour, and that, <br/>
-  b) the nominee has sufficient time to correct their error (almost 23 hours).
+### 2. Appeal
 
-7. The Chief Electoral Officer rejected argument (b) on the basis that: <br/>
-  a) The Electoral Commission was not at fault for the nomination being incorrect, and that, <br/>
-  b) the nominee was not contacted by the commission because it may have been seen as special treatment or courtesy that was not extended to any other candidates.
+2.1. The nominee submitted a formal appeal of the disqualification.
 
-8. This appeal was then **DENIED**.
+2.2. The grounds of appeal were as follows: <br/>
+   a) That the nominee’s self-nomination occurred late (at 12:00 AM), and  <br/>
+   b) That the Electoral Commission should have notified him of the invalid nomination.
 
-9. The nominee began to lash out at the Chief Electoral Officer, swearing and threatning their life.
+2.3. The Chief Electoral Officer rejected argument (a) on the basis that: <br/>
+   a) The Electoral Commission is not responsible for the timing of a nomination; and  <br/>
+   b) The nominee had approximately 23 hours remaining to amend the invalid nomination.
 
-10. The nominee's disqualification was upgraded to last permanently.
+2.4. The Chief Electoral Officer rejected argument (b) on the basis that: <br/>
+   a) The Electoral Commission is not responsible for identifying or notifying candidates of invalid nominations; and   <br/>
+   b) Any such notification could have constituted special treatment not afforded to other nominees.
 
-**Mr. Hxllcatz is hereby issued a permanent Disqualification from Public Office, this day, the 16th of April 2025.**
+2.5. Accordingly, the appeal was **denied in full**.
+
+---
+
+### 3. Misconduct and Escalation
+
+3.1. Following the denial of the appeal, the nominee engaged in hostile and abusive conduct towards the Chief Electoral Officer.
+
+3.2. The nominee used profane language and issued threats against the life of the Officer.
+
+3.3. As a result of this serious misconduct, the disqualification period is hereby upgraded to a **permanent disqualification** from holding public office.
+
+---
+
+### 4. Final Order
+
+**Mr. hxllcatzz is hereby issued a Permanent Disqualification from Public Office, effective this day, the 16th of April 2025.**
+
+
