@@ -33,9 +33,9 @@ FROM:
 | 19  | strxumz | Robson | **APPROVED** | N/A
 
 ### STATISTICS
-**Approved Candidates**: `09`
+**Approved Candidates**: `10`
 
-**Denied Candidates**: `09`
+**Denied Candidates**: `08`
 
 **Disqualified Candidates**: `01`
 
