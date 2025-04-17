@@ -18,7 +18,7 @@ FROM:
 | 04  | funkyfan12 | Brockton Point | **DENIED** | In violation of Electoral Regulation §13.
 | 05  | Acapellon | Vancouver Beach | **DENIED** | In violation of Electoral Regulation §13.
 | 06  | GRIFFINSREVENGE | Metro West Vancouver | **DENIED** | In violation of Electoral Regulation §13.
-| 07  | Amer1canValor | Vancouver Beach | **DENIED** | In violation of Electoral Regulation §13.
+| 07  | Amer1canValor | Vancouver Beach | **APPROVED** | N/A
 | 08  | Tga_bot1 | Metro West Vancouver | **DENIED** | In violation of Electoral Regulation §13.
 | 09  | thebeston123 | Metro West Vancouver | **APPROVED** | N/A
 | 10  | TheKyleWalker | Brockton Point | **DENIED** | In violation of Electoral Regulation §13.
