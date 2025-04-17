@@ -36,6 +36,7 @@ FROM:
   - ~~x1 Indictable Offence~~
 - ~~Violation of of Electoral Regulation §13.~~
   - ~~"To be qualified for nomination as a candidate for an election, an individual **must not be charged with an indictable offence**."~~
+
 `Overturned via appeal, Cheif15092009`.
 
 ### TGA_BOT1
