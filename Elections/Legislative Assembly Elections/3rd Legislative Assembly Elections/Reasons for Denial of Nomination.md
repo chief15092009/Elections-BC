@@ -31,11 +31,12 @@ FROM:
 - Violation of of Electoral Regulation §13.
   - "To be qualified for nomination as a candidate for an election, an individual **must not have an active public saftey blacklist or anything alike**."
  
-### AMER1CANVALOR
-- Nominee has an indictable offence on record.
-  - x1 Indictable Offence
-- Violation of of Electoral Regulation §13.
-  - "To be qualified for nomination as a candidate for an election, an individual **must not be charged with an indictable offence**."
+### ~~AMER1CANVALOR~~
+- ~~Nominee has an indictable offence on record.~~
+  - ~~x1 Indictable Offence~~
+- ~~Violation of of Electoral Regulation §13.~~
+  - ~~"To be qualified for nomination as a candidate for an election, an individual **must not be charged with an indictable offence**."~~
+`Overturned via appeal, Cheif15092009`.
 
 ### TGA_BOT1
 - Nominee has an indictable offence on record.
