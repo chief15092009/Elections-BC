@@ -41,11 +41,11 @@ Pursuant to Sections 140, 147, and 150 of the Constitution Act, it is declared t
 
 | Voting Period |
 | ----------------- |
-| 04/19/2025 @ 08:00 AM EST - 04/20/2025 @ 08:00 AM EST |
+| 04/18/2025 @ 09:30 AM EST - 04/19/2025 @ 09:30 AM EST |
 
 | Certification of Results To Begin |
 | ------------------------ |
-| 04/20/2025 @ 08:01 AM EST |
+| 04/19/2025 @ 09:31 AM EST |
 
 ---
 
