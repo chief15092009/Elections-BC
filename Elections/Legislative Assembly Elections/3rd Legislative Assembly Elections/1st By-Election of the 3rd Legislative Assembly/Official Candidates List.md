@@ -13,15 +13,15 @@ FROM:
 | No. | ROBLOX Username | District | Status | Notes |
 | :---: | :---: | :---: | :---: | :---: |
 | 01	| Aladinpecovor | N/A | **APPROVED** | N/A
-| 02  | Smartboy1087 | West Vancouver | **APPROVED** | N/A
-| 03  | MrLoopaDoopa | Metro Vancouver | **-** | 
-| 04  | Protower | Brockton Point | **-** | In violation of Electoral Regulation §13.
-| 05  | saladroo | Vancouver Beach | **-** | 
+| 02  | Smartboy1087 | N/A | **APPROVED** | N/A
+| 03  | MrLoopaDoopa | N/A | **DENIED** | In violation of Electoral Regulation §13.
+| 04  | Protower | N/A | **DENIED** | In violation of Electoral Regulation §13.
+| 05  | saladroo | N/A | **APPROVED** | N/A
 
 ### STATISTICS
-**Approved Candidates**: ``
+**Approved Candidates**: `03`
 
-**Denied Candidates**: `07`
+**Denied Candidates**: `02`
 
 **Disqualified Candidates**: `00`
 
@@ -29,7 +29,7 @@ FROM:
 
 **PLEASE NOTE**:
 
-- All candidates can find reasons for denial in the [Reasons for Denial of Nomination](https://github.com/chief15092009/Elections-BC/blob/main/Elections/Legislative%20Assembly%20Elections/3rd%20Legislative%20Assembly%20Elections/Reasons%20for%20Denial%20of%20Nomination.md) file.
+- All candidates can find reasons for denial in the [Reasons for Denial of Nomination](https://github.com/chief15092009/Elections-BC/blob/main/Elections/Legislative%20Assembly%20Elections/3rd%20Legislative%20Assembly%20Elections/1st%20By-Election%20of%20the%203rd%20Legislative%20Assembly/Reasons%20for%20Denial%20of%20Nomination.md) file.
 - All candidates can find reasons for disqualification in the [Election Discipline Folder](https://github.com/chief15092009/Elections-BC/tree/main/Electoral%20Disciplinary%20Actions).
 - All denied candidates may appeal their denial by contacting the Chief Electoral Officer no later than 24 hours after this is released.
 
