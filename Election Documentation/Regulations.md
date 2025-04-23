@@ -35,13 +35,16 @@ If the time set under this Regulation or by an electoral officer for doing anyth
 
 ## Part 2 - Electoral Officers
 **Term of office**
+
 2. Unless otherwise specified by the Chief Electoral Officer, the term of office for an electoral officer is from the date of appointment until the certification of the second general election after said electoral officer was appointed.
 
 **Impartiality**
+
 3. All electoral officers must faithfully and impartially exercise the powers and perform the duties of office and be independent from every candidate.
 4. All electoral officers must not hold a position with or make a contribution to an individual who is, intends to be, or was a candidate in an election.
 
 **General staff**
+
 5. The Chief Electoral Officer may appoint other employees necessary to enable the Chief Electoral Officer to perform the duties of the office.
 6. The Chief Electoral Officer may retain, on a temporary basis, other persons necessary to enable the Chief Electoral Officer to perform the duties of the office in relation to short term administrative matters, including the preparation for and conduct of an election or plebiscite.
 
@@ -61,6 +64,7 @@ If the time set under this Regulation or by an electoral officer for doing anyth
 
 ## Part 3 - Voters
 **Who may vote**
+
 9. In order to vote in an election for an electoral district, an individual must be a resident of the province.
 
 **Individuals disqualified from voting**
@@ -72,11 +76,13 @@ If the time set under this Regulation or by an electoral officer for doing anyth
 11. Voter registration shall be required.
 
 **List of voters**
+
 12. The list of voters shall be maintained and updated by the development team.
 
 ## Part 4 - Candidates
 
 **Who may be nominated**
+
 13. To be qualified for nomination as a candidate for an election, an individual must:
 - qualify as a voter under Part 3,
 - be at least 14 years of age,
@@ -96,10 +102,13 @@ If the time set under this Regulation or by an electoral officer for doing anyth
 - must be a resident of British Columbia for a mimumum of thirty (30) days.
 
 **Making nominations**
+
 14. The timeline and means for making nominations shall be prescribed by the Chief Electoral Officer, in a writ of election.
+
 15. An electoral officer may require nomination documents from the individual making the nomination.
 
 **When an individual is a candidate**
+
 16. An individual becomes a candidate when the individual's nomination is approved by an electoral officer, after all the required nomination documents are accepted.
 17. An individual continues to be a candidate until the certification of the election, unless:
 - the individual earlier withdrawals, or
@@ -109,9 +118,11 @@ If the time set under this Regulation or by an electoral officer for doing anyth
 20. A disqualification under the above subsection is not void even if, after the fact, the individual is or becomes eligible as a candidate.
 
 **Withdrawal of candidate**
+
 21. At any time up until 24 hours before the start of voting, a candidate may withdraw from the election by contacting the Chief Electoral Officer.
 
 **Challenge of candidate**
+
 22. The nomination of a candidate may be challenged in writing to the Chief Electoral Officer.
 23. A challenge may only be made by a qualified voter, and within 2 days of the release of the list of candidates.
 24. A challenge may only be made on the basis that:
@@ -126,8 +137,10 @@ If the time set under this Regulation or by an electoral officer for doing anyth
 
 ## Part 5 - Voting
 **Each individual may vote only once in an election**
+
 29. An individual must not vote more than once in the same general election or by-election.
 **Voting to be by secret ballot**
+
 30. Voting at an election must be by secret ballot.
 31. Each individual present at a place at which a voter exercises the right to vote, including individuals present to vote, and each individual present at the counting of the vote must preserve the secrecy of the ballot and, in particular, must not do any of the following:
 - interfere with an individual who is marking a ballot;
@@ -137,6 +150,7 @@ If the time set under this Regulation or by an electoral officer for doing anyth
 32. A voter may not be required in any legal proceedings to reveal how the voter voted in an election.
   
 **Individuals who may be present at a voting place**
+
 33. Except as provided in this part, an individual must not be present at a voting place during voting hours.
 34. The following individuals may be present at a voting place during voting hours:
 - electoral officers;
@@ -149,9 +163,11 @@ If the time set under this Regulation or by an electoral officer for doing anyth
 ## Part 6 - Certification
 
 **Counting of the vote**
+
 37. A counting of the vote witnessed by at least two electoral officers must occur before the results of an election are certified by the Chief Electoral Officer.
 
 **Challenge of certification**
+
 38. The certification of an election may be challenged in writing to the Chief Electoral Officer.
 39. A challenge may only be made:
 - by a qualified voter,
@@ -286,6 +302,7 @@ or:
 
 ## Part 9 - Additional Regulations
 **Only primary accounts may participate**
+
 73. Only an individual's primary account may be a candidate or act as staff for a candidate.
 74. Upon the request of an electoral officer, an individual who has nominated themselves to be a candidate, is a candidate, or is staff for a candidate must demonstrate to the electoral officer that they are using their primary account.
 75. Where an electoral officer has made a lawful request under section 71, received an adequate response, but is still not satisfied that an individual is in fact using their primary account, he or she may request advice from the Federal Parliament or Municipal Council or a third-party investigator.
@@ -293,12 +310,14 @@ or:
 77. An individual is deemed to have failed to produce a response if they do not respond within 48 hours of a lawful request under section 71.
 
 **Breaking ties**
+
 78. A tie is when two or more candidates have an equal number of votes in any election.
 79. At the discretion of the Chief Electoral Officer, a tie may be broken in a manner permitted by this section.
 80. Drawing by lot, a random draw performed by an electoral officer which must be recorded and made available to the public for inspection for at least 3 days following the draw.
 81. Runoff election, where all unsuccessful candidates from the original election may run in a second election.
 
 **Democratic participation**
+
 82. A candidate must meaningfully participate in democratic forums and communicate with the electorate during the campaign period such that voters are informed of the candidate's platform and that, in particular, that voters are not misinformed of the candidate's platform.
 83. A person must not nominate himself or herself to be a candidate if he or she knows or reasonably ought to know that he or she will not be able to or will refuse to fulfil the requirements described in this section.
 84. A candidate may be required to demonstrate to an electoral officer that he or she is meaningfully participating in such advertising, campaign communications, debates, or demonstrations as to satisfy the requirements described in this section.
@@ -308,12 +327,10 @@ or:
 
 Signed,
 
-
-
 *Cheif15092009*,
   **Electoral Officer**
 
 <p align="center"> <b>[END OF DOCUMENT]</b>
 
- Last Revised: 30/08/2024
+ Last Revised: 25/04/2025
 
